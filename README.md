@@ -2,6 +2,13 @@
 
 # MovieTheater-Assignment
 
+---
+
+# Description: 
+Movie theater seating management system with seat reservation, availability tracking, and booking functionality.
+
+---
+
 Instructions 
 
 Implement a Movie theater class that has methods to:
